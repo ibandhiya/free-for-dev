@@ -711,6 +711,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [logtail.com](https://logtail.com/) - ClickHouse-based SQL-compatible log management. Free up to 1 GB per month, three days retention.
   * [logzab.com](https://logzab.com/) - Audit trail management system. Free 1,000 user activity logs per month, 1-month retention, for up to 5 projects.
   * [ManageEngine Log360 Cloud](https://www.manageengine.com/cloud-siem/) - Log Management service powered by Manage Engine. Free Plan offers 50 GB storage with 15 days Storage Retention and 7 days search.
+  * [Middleware](https://middleware.io/) - 14-day free trial with unlimited data ingestion and 14-day retention. After trial, pay-as-you-go (~$0.3/GB logs) with real-time live view, advanced search (regex, fuzzy), log anomaly detection, and trace/metrics correlation (30-day default retention).
   * [openobserve.ai](https://openobserve.ai/) - 200 GB Ingestion/month free, 15 Days Retention
   * [Smart Grow Logs](https://logs.smart-grow.app/) - Centralized log management platform with end-to-end encryption, real-time alerts, and multi-platform SDKs. Free tier includes up to 3.000 logs per day.
 
